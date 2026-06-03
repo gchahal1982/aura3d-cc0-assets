@@ -1,6 +1,7 @@
 {
   "schema": "aura3d-cc0-mirror/1",
   "cdnBase": "https://cdn.jsdelivr.net/gh/gchahal1982/aura3d-cc0-assets@main",
+  "count": 84,
   "assets": [
     {
       "id": "kenney:car-kit:ambulance",
@@ -12,7 +13,7 @@
       "tags": [
         "ambulance",
         "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -23,23 +24,9 @@
       "path": "kenney/car-kit/box.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
+        "box",
         "car",
-        "box"
-      ]
-    },
-    {
-      "id": "kenney:car-kit:cone-flat",
-      "source": "kenney",
-      "pack": "car-kit",
-      "title": "Cone Flat",
-      "path": "kenney/car-kit/cone-flat.glb",
-      "license": "CC0",
-      "tags": [
-        "flat",
-        "cone",
-        "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -52,7 +39,21 @@
       "tags": [
         "cone",
         "car",
-        "vehicle"
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:cone-flat",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Cone Flat",
+      "path": "kenney/car-kit/cone-flat.glb",
+      "license": "CC0",
+      "tags": [
+        "cone",
+        "flat",
+        "car",
+        "kit"
       ]
     },
     {
@@ -63,10 +64,10 @@
       "path": "kenney/car-kit/debris-bolt.glb",
       "license": "CC0",
       "tags": [
+        "debris",
         "bolt",
         "car",
-        "debris",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -77,25 +78,10 @@
       "path": "kenney/car-kit/debris-bumper.glb",
       "license": "CC0",
       "tags": [
+        "debris",
         "bumper",
         "car",
-        "debris",
-        "vehicle"
-      ]
-    },
-    {
-      "id": "kenney:car-kit:debris-door-window",
-      "source": "kenney",
-      "pack": "car-kit",
-      "title": "Debris Door Window",
-      "path": "kenney/car-kit/debris-door-window.glb",
-      "license": "CC0",
-      "tags": [
-        "car",
-        "debris",
-        "vehicle",
-        "window",
-        "door"
+        "kit"
       ]
     },
     {
@@ -106,25 +92,25 @@
       "path": "kenney/car-kit/debris-door.glb",
       "license": "CC0",
       "tags": [
+        "debris",
         "door",
         "car",
-        "debris",
-        "vehicle"
+        "kit"
       ]
     },
     {
-      "id": "kenney:car-kit:debris-drivetrain-axle",
+      "id": "kenney:car-kit:debris-door-window",
       "source": "kenney",
       "pack": "car-kit",
-      "title": "Debris Drivetrain Axle",
-      "path": "kenney/car-kit/debris-drivetrain-axle.glb",
+      "title": "Debris Door Window",
+      "path": "kenney/car-kit/debris-door-window.glb",
       "license": "CC0",
       "tags": [
-        "axle",
-        "car",
         "debris",
-        "vehicle",
-        "drivetrain"
+        "door",
+        "window",
+        "car",
+        "kit"
       ]
     },
     {
@@ -135,10 +121,25 @@
       "path": "kenney/car-kit/debris-drivetrain.glb",
       "license": "CC0",
       "tags": [
+        "debris",
         "drivetrain",
         "car",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-drivetrain-axle",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Drivetrain Axle",
+      "path": "kenney/car-kit/debris-drivetrain-axle.glb",
+      "license": "CC0",
+      "tags": [
         "debris",
-        "vehicle"
+        "drivetrain",
+        "axle",
+        "car",
+        "kit"
       ]
     },
     {
@@ -149,10 +150,10 @@
       "path": "kenney/car-kit/debris-nut.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
-        "car",
         "debris",
-        "nut"
+        "nut",
+        "car",
+        "kit"
       ]
     },
     {
@@ -163,11 +164,10 @@
       "path": "kenney/car-kit/debris-plate-a.glb",
       "license": "CC0",
       "tags": [
-        "car",
-        "a",
         "debris",
-        "vehicle",
-        "plate"
+        "plate",
+        "car",
+        "kit"
       ]
     },
     {
@@ -178,11 +178,10 @@
       "path": "kenney/car-kit/debris-plate-b.glb",
       "license": "CC0",
       "tags": [
-        "b",
-        "car",
         "debris",
-        "vehicle",
-        "plate"
+        "plate",
+        "car",
+        "kit"
       ]
     },
     {
@@ -193,12 +192,11 @@
       "path": "kenney/car-kit/debris-plate-small-a.glb",
       "license": "CC0",
       "tags": [
+        "debris",
+        "plate",
         "small",
         "car",
-        "a",
-        "debris",
-        "vehicle",
-        "plate"
+        "kit"
       ]
     },
     {
@@ -209,12 +207,11 @@
       "path": "kenney/car-kit/debris-plate-small-b.glb",
       "license": "CC0",
       "tags": [
-        "b",
+        "debris",
+        "plate",
         "small",
         "car",
-        "debris",
-        "vehicle",
-        "plate"
+        "kit"
       ]
     },
     {
@@ -225,11 +222,10 @@
       "path": "kenney/car-kit/debris-spoiler-a.glb",
       "license": "CC0",
       "tags": [
-        "car",
-        "a",
-        "vehicle",
         "debris",
-        "spoiler"
+        "spoiler",
+        "car",
+        "kit"
       ]
     },
     {
@@ -240,11 +236,10 @@
       "path": "kenney/car-kit/debris-spoiler-b.glb",
       "license": "CC0",
       "tags": [
-        "b",
-        "car",
         "debris",
-        "vehicle",
-        "spoiler"
+        "spoiler",
+        "car",
+        "kit"
       ]
     },
     {
@@ -255,24 +250,10 @@
       "path": "kenney/car-kit/debris-tire.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
-        "car",
         "debris",
-        "tire"
-      ]
-    },
-    {
-      "id": "kenney:car-kit:delivery-flat",
-      "source": "kenney",
-      "pack": "car-kit",
-      "title": "Delivery Flat",
-      "path": "kenney/car-kit/delivery-flat.glb",
-      "license": "CC0",
-      "tags": [
-        "flat",
-        "delivery",
+        "tire",
         "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -285,7 +266,21 @@
       "tags": [
         "delivery",
         "car",
-        "vehicle"
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:delivery-flat",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Delivery Flat",
+      "path": "kenney/car-kit/delivery-flat.glb",
+      "license": "CC0",
+      "tags": [
+        "delivery",
+        "flat",
+        "car",
+        "kit"
       ]
     },
     {
@@ -298,7 +293,7 @@
       "tags": [
         "firetruck",
         "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -309,10 +304,10 @@
       "path": "kenney/car-kit/garbage-truck.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
+        "garbage",
         "truck",
         "car",
-        "garbage"
+        "kit"
       ]
     },
     {
@@ -324,9 +319,9 @@
       "license": "CC0",
       "tags": [
         "hatchback",
-        "car",
         "sports",
-        "vehicle"
+        "car",
+        "kit"
       ]
     },
     {
@@ -337,10 +332,10 @@
       "path": "kenney/car-kit/kart-oobi.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
-        "oobi",
         "kart",
-        "car"
+        "oobi",
+        "car",
+        "kit"
       ]
     },
     {
@@ -351,10 +346,10 @@
       "path": "kenney/car-kit/kart-oodi.glb",
       "license": "CC0",
       "tags": [
+        "kart",
         "oodi",
         "car",
-        "kart",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -365,10 +360,10 @@
       "path": "kenney/car-kit/kart-ooli.glb",
       "license": "CC0",
       "tags": [
+        "kart",
         "ooli",
         "car",
-        "kart",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -379,10 +374,10 @@
       "path": "kenney/car-kit/kart-oopi.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
-        "car",
         "kart",
-        "oopi"
+        "oopi",
+        "car",
+        "kit"
       ]
     },
     {
@@ -393,10 +388,10 @@
       "path": "kenney/car-kit/kart-oozi.glb",
       "license": "CC0",
       "tags": [
+        "kart",
         "oozi",
         "car",
-        "kart",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -409,21 +404,7 @@
       "tags": [
         "police",
         "car",
-        "vehicle"
-      ]
-    },
-    {
-      "id": "kenney:car-kit:race-future",
-      "source": "kenney",
-      "pack": "car-kit",
-      "title": "Race Future",
-      "path": "kenney/car-kit/race-future.glb",
-      "license": "CC0",
-      "tags": [
-        "vehicle",
-        "future",
-        "car",
-        "race"
+        "kit"
       ]
     },
     {
@@ -434,23 +415,23 @@
       "path": "kenney/car-kit/race.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
+        "race",
         "car",
-        "race"
+        "kit"
       ]
     },
     {
-      "id": "kenney:car-kit:sedan-sports",
+      "id": "kenney:car-kit:race-future",
       "source": "kenney",
       "pack": "car-kit",
-      "title": "Sedan Sports",
-      "path": "kenney/car-kit/sedan-sports.glb",
+      "title": "Race Future",
+      "path": "kenney/car-kit/race-future.glb",
       "license": "CC0",
       "tags": [
-        "sports",
-        "sedan",
+        "race",
+        "future",
         "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -463,21 +444,21 @@
       "tags": [
         "sedan",
         "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
-      "id": "kenney:car-kit:suv-luxury",
+      "id": "kenney:car-kit:sedan-sports",
       "source": "kenney",
       "pack": "car-kit",
-      "title": "Suv Luxury",
-      "path": "kenney/car-kit/suv-luxury.glb",
+      "title": "Sedan Sports",
+      "path": "kenney/car-kit/sedan-sports.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
-        "suv",
+        "sedan",
+        "sports",
         "car",
-        "luxury"
+        "kit"
       ]
     },
     {
@@ -490,7 +471,21 @@
       "tags": [
         "suv",
         "car",
-        "vehicle"
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:suv-luxury",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Suv Luxury",
+      "path": "kenney/car-kit/suv-luxury.glb",
+      "license": "CC0",
+      "tags": [
+        "suv",
+        "luxury",
+        "car",
+        "kit"
       ]
     },
     {
@@ -503,7 +498,20 @@
       "tags": [
         "taxi",
         "car",
-        "vehicle"
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:tractor",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Tractor",
+      "path": "kenney/car-kit/tractor.glb",
+      "license": "CC0",
+      "tags": [
+        "tractor",
+        "car",
+        "kit"
       ]
     },
     {
@@ -517,7 +525,7 @@
         "tractor",
         "police",
         "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -528,37 +536,10 @@
       "path": "kenney/car-kit/tractor-shovel.glb",
       "license": "CC0",
       "tags": [
+        "tractor",
         "shovel",
-        "tractor",
         "car",
-        "vehicle"
-      ]
-    },
-    {
-      "id": "kenney:car-kit:tractor",
-      "source": "kenney",
-      "pack": "car-kit",
-      "title": "Tractor",
-      "path": "kenney/car-kit/tractor.glb",
-      "license": "CC0",
-      "tags": [
-        "tractor",
-        "car",
-        "vehicle"
-      ]
-    },
-    {
-      "id": "kenney:car-kit:truck-flat",
-      "source": "kenney",
-      "pack": "car-kit",
-      "title": "Truck Flat",
-      "path": "kenney/car-kit/truck-flat.glb",
-      "license": "CC0",
-      "tags": [
-        "flat",
-        "truck",
-        "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -571,7 +552,21 @@
       "tags": [
         "truck",
         "car",
-        "vehicle"
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:truck-flat",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Truck Flat",
+      "path": "kenney/car-kit/truck-flat.glb",
+      "license": "CC0",
+      "tags": [
+        "truck",
+        "flat",
+        "car",
+        "kit"
       ]
     },
     {
@@ -582,9 +577,9 @@
       "path": "kenney/car-kit/van.glb",
       "license": "CC0",
       "tags": [
-        "car",
         "van",
-        "vehicle"
+        "car",
+        "kit"
       ]
     },
     {
@@ -595,10 +590,10 @@
       "path": "kenney/car-kit/wheel-dark.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
+        "wheel",
         "dark",
         "car",
-        "wheel"
+        "kit"
       ]
     },
     {
@@ -609,10 +604,10 @@
       "path": "kenney/car-kit/wheel-default.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
-        "car",
+        "wheel",
         "default",
-        "wheel"
+        "car",
+        "kit"
       ]
     },
     {
@@ -623,10 +618,10 @@
       "path": "kenney/car-kit/wheel-racing.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
+        "wheel",
         "racing",
         "car",
-        "wheel"
+        "kit"
       ]
     },
     {
@@ -637,11 +632,11 @@
       "path": "kenney/car-kit/wheel-tractor-back.glb",
       "license": "CC0",
       "tags": [
-        "tractor",
         "wheel",
+        "tractor",
+        "back",
         "car",
-        "vehicle",
-        "back"
+        "kit"
       ]
     },
     {
@@ -652,12 +647,12 @@
       "path": "kenney/car-kit/wheel-tractor-dark-back.glb",
       "license": "CC0",
       "tags": [
+        "wheel",
         "tractor",
         "dark",
-        "wheel",
+        "back",
         "car",
-        "vehicle",
-        "back"
+        "kit"
       ]
     },
     {
@@ -668,12 +663,12 @@
       "path": "kenney/car-kit/wheel-tractor-dark-front.glb",
       "license": "CC0",
       "tags": [
+        "wheel",
         "tractor",
         "dark",
         "front",
-        "wheel",
         "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -684,11 +679,11 @@
       "path": "kenney/car-kit/wheel-tractor-front.glb",
       "license": "CC0",
       "tags": [
+        "wheel",
         "tractor",
         "front",
-        "wheel",
         "car",
-        "vehicle"
+        "kit"
       ]
     },
     {
@@ -699,10 +694,526 @@
       "path": "kenney/car-kit/wheel-truck.glb",
       "license": "CC0",
       "tags": [
-        "vehicle",
+        "wheel",
         "truck",
         "car",
-        "wheel"
+        "kit"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:0_Card_Back",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Card Back",
+      "path": "quaternius/3d-card-kit-fantasy/0_Card_Back.gltf",
+      "license": "CC0",
+      "tags": [
+        "card",
+        "back",
+        "3d",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:0_Card_Container",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Card Container",
+      "path": "quaternius/3d-card-kit-fantasy/0_Card_Container.gltf",
+      "license": "CC0",
+      "tags": [
+        "card",
+        "container",
+        "3d",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:0_Card_Front",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Card Front",
+      "path": "quaternius/3d-card-kit-fantasy/0_Card_Front.gltf",
+      "license": "CC0",
+      "tags": [
+        "card",
+        "front",
+        "3d",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:0_Card_Mask",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Card Mask",
+      "path": "quaternius/3d-card-kit-fantasy/0_Card_Mask.gltf",
+      "license": "CC0",
+      "tags": [
+        "card",
+        "mask",
+        "3d",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:1_Fireball",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Fireball",
+      "path": "quaternius/3d-card-kit-fantasy/1_Fireball.gltf",
+      "license": "CC0",
+      "tags": [
+        "fireball",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:10_Beehive",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Beehive",
+      "path": "quaternius/3d-card-kit-fantasy/10_Beehive.gltf",
+      "license": "CC0",
+      "tags": [
+        "beehive",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:11_Polinization",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Polinization",
+      "path": "quaternius/3d-card-kit-fantasy/11_Polinization.gltf",
+      "license": "CC0",
+      "tags": [
+        "polinization",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:12_Mimic",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Mimic",
+      "path": "quaternius/3d-card-kit-fantasy/12_Mimic.gltf",
+      "license": "CC0",
+      "tags": [
+        "mimic",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:13_SeaMonster",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "SeaMonster",
+      "path": "quaternius/3d-card-kit-fantasy/13_SeaMonster.gltf",
+      "license": "CC0",
+      "tags": [
+        "seamonster",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:14_Coin",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Coin",
+      "path": "quaternius/3d-card-kit-fantasy/14_Coin.gltf",
+      "license": "CC0",
+      "tags": [
+        "coin",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:15_Cult",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Cult",
+      "path": "quaternius/3d-card-kit-fantasy/15_Cult.gltf",
+      "license": "CC0",
+      "tags": [
+        "cult",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:16_Belltowers",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Belltowers",
+      "path": "quaternius/3d-card-kit-fantasy/16_Belltowers.gltf",
+      "license": "CC0",
+      "tags": [
+        "belltowers",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:17_Rebirth",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Rebirth",
+      "path": "quaternius/3d-card-kit-fantasy/17_Rebirth.gltf",
+      "license": "CC0",
+      "tags": [
+        "rebirth",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:18_WaterDragon",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "WaterDragon",
+      "path": "quaternius/3d-card-kit-fantasy/18_WaterDragon.gltf",
+      "license": "CC0",
+      "tags": [
+        "waterdragon",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:19_OceanTreasure",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "OceanTreasure",
+      "path": "quaternius/3d-card-kit-fantasy/19_OceanTreasure.gltf",
+      "license": "CC0",
+      "tags": [
+        "oceantreasure",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:2_TrenchcoatMushrooms",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "TrenchcoatMushrooms",
+      "path": "quaternius/3d-card-kit-fantasy/2_TrenchcoatMushrooms.gltf",
+      "license": "CC0",
+      "tags": [
+        "trenchcoatmushrooms",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:20_Element_Fire",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Element Fire",
+      "path": "quaternius/3d-card-kit-fantasy/20_Element_Fire.gltf",
+      "license": "CC0",
+      "tags": [
+        "element",
+        "fire",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:21_Element_Lightning",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Element Lightning",
+      "path": "quaternius/3d-card-kit-fantasy/21_Element_Lightning.gltf",
+      "license": "CC0",
+      "tags": [
+        "element",
+        "lightning",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:22_Element_Air",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Element Air",
+      "path": "quaternius/3d-card-kit-fantasy/22_Element_Air.gltf",
+      "license": "CC0",
+      "tags": [
+        "element",
+        "air",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:23_Element_Water",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Element Water",
+      "path": "quaternius/3d-card-kit-fantasy/23_Element_Water.gltf",
+      "license": "CC0",
+      "tags": [
+        "element",
+        "water",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:24_Element_Dark",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Element Dark",
+      "path": "quaternius/3d-card-kit-fantasy/24_Element_Dark.gltf",
+      "license": "CC0",
+      "tags": [
+        "element",
+        "dark",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:25_Element_Earth",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Element Earth",
+      "path": "quaternius/3d-card-kit-fantasy/25_Element_Earth.gltf",
+      "license": "CC0",
+      "tags": [
+        "element",
+        "earth",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:26_BloodRing",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "BloodRing",
+      "path": "quaternius/3d-card-kit-fantasy/26_BloodRing.gltf",
+      "license": "CC0",
+      "tags": [
+        "bloodring",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:27_Book",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Book",
+      "path": "quaternius/3d-card-kit-fantasy/27_Book.gltf",
+      "license": "CC0",
+      "tags": [
+        "book",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:28_RollDice",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "RollDice",
+      "path": "quaternius/3d-card-kit-fantasy/28_RollDice.gltf",
+      "license": "CC0",
+      "tags": [
+        "rolldice",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:29_Block",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Block",
+      "path": "quaternius/3d-card-kit-fantasy/29_Block.gltf",
+      "license": "CC0",
+      "tags": [
+        "block",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:3_Monk",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Monk",
+      "path": "quaternius/3d-card-kit-fantasy/3_Monk.gltf",
+      "license": "CC0",
+      "tags": [
+        "monk",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:30_Wizard",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Wizard",
+      "path": "quaternius/3d-card-kit-fantasy/30_Wizard.gltf",
+      "license": "CC0",
+      "tags": [
+        "wizard",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:4_Market",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Market",
+      "path": "quaternius/3d-card-kit-fantasy/4_Market.gltf",
+      "license": "CC0",
+      "tags": [
+        "market",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:5_Steal",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Steal",
+      "path": "quaternius/3d-card-kit-fantasy/5_Steal.gltf",
+      "license": "CC0",
+      "tags": [
+        "steal",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:6_King",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "King",
+      "path": "quaternius/3d-card-kit-fantasy/6_King.gltf",
+      "license": "CC0",
+      "tags": [
+        "king",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:7_StinkTrap",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "StinkTrap",
+      "path": "quaternius/3d-card-kit-fantasy/7_StinkTrap.gltf",
+      "license": "CC0",
+      "tags": [
+        "stinktrap",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:8_LightningWizard",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "LightningWizard",
+      "path": "quaternius/3d-card-kit-fantasy/8_LightningWizard.gltf",
+      "license": "CC0",
+      "tags": [
+        "lightningwizard",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "quaternius:3d-card-kit-fantasy:9_Hypnosis",
+      "source": "quaternius",
+      "pack": "3d-card-kit-fantasy",
+      "title": "Hypnosis",
+      "path": "quaternius/3d-card-kit-fantasy/9_Hypnosis.gltf",
+      "license": "CC0",
+      "tags": [
+        "hypnosis",
+        "3d",
+        "card",
+        "kit",
+        "fantasy"
       ]
     }
   ]
