@@ -1,0 +1,709 @@
+{
+  "schema": "aura3d-cc0-mirror/1",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/gchahal1982/aura3d-cc0-assets@main",
+  "assets": [
+    {
+      "id": "kenney:car-kit:ambulance",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Ambulance",
+      "path": "kenney/car-kit/ambulance.glb",
+      "license": "CC0",
+      "tags": [
+        "ambulance",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:box",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Box",
+      "path": "kenney/car-kit/box.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "car",
+        "box"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:cone-flat",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Cone Flat",
+      "path": "kenney/car-kit/cone-flat.glb",
+      "license": "CC0",
+      "tags": [
+        "flat",
+        "cone",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:cone",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Cone",
+      "path": "kenney/car-kit/cone.glb",
+      "license": "CC0",
+      "tags": [
+        "cone",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-bolt",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Bolt",
+      "path": "kenney/car-kit/debris-bolt.glb",
+      "license": "CC0",
+      "tags": [
+        "bolt",
+        "car",
+        "debris",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-bumper",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Bumper",
+      "path": "kenney/car-kit/debris-bumper.glb",
+      "license": "CC0",
+      "tags": [
+        "bumper",
+        "car",
+        "debris",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-door-window",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Door Window",
+      "path": "kenney/car-kit/debris-door-window.glb",
+      "license": "CC0",
+      "tags": [
+        "car",
+        "debris",
+        "vehicle",
+        "window",
+        "door"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-door",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Door",
+      "path": "kenney/car-kit/debris-door.glb",
+      "license": "CC0",
+      "tags": [
+        "door",
+        "car",
+        "debris",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-drivetrain-axle",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Drivetrain Axle",
+      "path": "kenney/car-kit/debris-drivetrain-axle.glb",
+      "license": "CC0",
+      "tags": [
+        "axle",
+        "car",
+        "debris",
+        "vehicle",
+        "drivetrain"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-drivetrain",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Drivetrain",
+      "path": "kenney/car-kit/debris-drivetrain.glb",
+      "license": "CC0",
+      "tags": [
+        "drivetrain",
+        "car",
+        "debris",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-nut",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Nut",
+      "path": "kenney/car-kit/debris-nut.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "car",
+        "debris",
+        "nut"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-plate-a",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Plate A",
+      "path": "kenney/car-kit/debris-plate-a.glb",
+      "license": "CC0",
+      "tags": [
+        "car",
+        "a",
+        "debris",
+        "vehicle",
+        "plate"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-plate-b",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Plate B",
+      "path": "kenney/car-kit/debris-plate-b.glb",
+      "license": "CC0",
+      "tags": [
+        "b",
+        "car",
+        "debris",
+        "vehicle",
+        "plate"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-plate-small-a",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Plate Small A",
+      "path": "kenney/car-kit/debris-plate-small-a.glb",
+      "license": "CC0",
+      "tags": [
+        "small",
+        "car",
+        "a",
+        "debris",
+        "vehicle",
+        "plate"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-plate-small-b",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Plate Small B",
+      "path": "kenney/car-kit/debris-plate-small-b.glb",
+      "license": "CC0",
+      "tags": [
+        "b",
+        "small",
+        "car",
+        "debris",
+        "vehicle",
+        "plate"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-spoiler-a",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Spoiler A",
+      "path": "kenney/car-kit/debris-spoiler-a.glb",
+      "license": "CC0",
+      "tags": [
+        "car",
+        "a",
+        "vehicle",
+        "debris",
+        "spoiler"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-spoiler-b",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Spoiler B",
+      "path": "kenney/car-kit/debris-spoiler-b.glb",
+      "license": "CC0",
+      "tags": [
+        "b",
+        "car",
+        "debris",
+        "vehicle",
+        "spoiler"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:debris-tire",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Debris Tire",
+      "path": "kenney/car-kit/debris-tire.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "car",
+        "debris",
+        "tire"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:delivery-flat",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Delivery Flat",
+      "path": "kenney/car-kit/delivery-flat.glb",
+      "license": "CC0",
+      "tags": [
+        "flat",
+        "delivery",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:delivery",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Delivery",
+      "path": "kenney/car-kit/delivery.glb",
+      "license": "CC0",
+      "tags": [
+        "delivery",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:firetruck",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Firetruck",
+      "path": "kenney/car-kit/firetruck.glb",
+      "license": "CC0",
+      "tags": [
+        "firetruck",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:garbage-truck",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Garbage Truck",
+      "path": "kenney/car-kit/garbage-truck.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "truck",
+        "car",
+        "garbage"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:hatchback-sports",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Hatchback Sports",
+      "path": "kenney/car-kit/hatchback-sports.glb",
+      "license": "CC0",
+      "tags": [
+        "hatchback",
+        "car",
+        "sports",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:kart-oobi",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Kart Oobi",
+      "path": "kenney/car-kit/kart-oobi.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "oobi",
+        "kart",
+        "car"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:kart-oodi",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Kart Oodi",
+      "path": "kenney/car-kit/kart-oodi.glb",
+      "license": "CC0",
+      "tags": [
+        "oodi",
+        "car",
+        "kart",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:kart-ooli",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Kart Ooli",
+      "path": "kenney/car-kit/kart-ooli.glb",
+      "license": "CC0",
+      "tags": [
+        "ooli",
+        "car",
+        "kart",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:kart-oopi",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Kart Oopi",
+      "path": "kenney/car-kit/kart-oopi.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "car",
+        "kart",
+        "oopi"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:kart-oozi",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Kart Oozi",
+      "path": "kenney/car-kit/kart-oozi.glb",
+      "license": "CC0",
+      "tags": [
+        "oozi",
+        "car",
+        "kart",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:police",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Police",
+      "path": "kenney/car-kit/police.glb",
+      "license": "CC0",
+      "tags": [
+        "police",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:race-future",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Race Future",
+      "path": "kenney/car-kit/race-future.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "future",
+        "car",
+        "race"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:race",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Race",
+      "path": "kenney/car-kit/race.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "car",
+        "race"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:sedan-sports",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Sedan Sports",
+      "path": "kenney/car-kit/sedan-sports.glb",
+      "license": "CC0",
+      "tags": [
+        "sports",
+        "sedan",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:sedan",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Sedan",
+      "path": "kenney/car-kit/sedan.glb",
+      "license": "CC0",
+      "tags": [
+        "sedan",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:suv-luxury",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Suv Luxury",
+      "path": "kenney/car-kit/suv-luxury.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "suv",
+        "car",
+        "luxury"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:suv",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Suv",
+      "path": "kenney/car-kit/suv.glb",
+      "license": "CC0",
+      "tags": [
+        "suv",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:taxi",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Taxi",
+      "path": "kenney/car-kit/taxi.glb",
+      "license": "CC0",
+      "tags": [
+        "taxi",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:tractor-police",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Tractor Police",
+      "path": "kenney/car-kit/tractor-police.glb",
+      "license": "CC0",
+      "tags": [
+        "tractor",
+        "police",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:tractor-shovel",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Tractor Shovel",
+      "path": "kenney/car-kit/tractor-shovel.glb",
+      "license": "CC0",
+      "tags": [
+        "shovel",
+        "tractor",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:tractor",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Tractor",
+      "path": "kenney/car-kit/tractor.glb",
+      "license": "CC0",
+      "tags": [
+        "tractor",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:truck-flat",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Truck Flat",
+      "path": "kenney/car-kit/truck-flat.glb",
+      "license": "CC0",
+      "tags": [
+        "flat",
+        "truck",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:truck",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Truck",
+      "path": "kenney/car-kit/truck.glb",
+      "license": "CC0",
+      "tags": [
+        "truck",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:van",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Van",
+      "path": "kenney/car-kit/van.glb",
+      "license": "CC0",
+      "tags": [
+        "car",
+        "van",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:wheel-dark",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Wheel Dark",
+      "path": "kenney/car-kit/wheel-dark.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "dark",
+        "car",
+        "wheel"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:wheel-default",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Wheel Default",
+      "path": "kenney/car-kit/wheel-default.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "car",
+        "default",
+        "wheel"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:wheel-racing",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Wheel Racing",
+      "path": "kenney/car-kit/wheel-racing.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "racing",
+        "car",
+        "wheel"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:wheel-tractor-back",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Wheel Tractor Back",
+      "path": "kenney/car-kit/wheel-tractor-back.glb",
+      "license": "CC0",
+      "tags": [
+        "tractor",
+        "wheel",
+        "car",
+        "vehicle",
+        "back"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:wheel-tractor-dark-back",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Wheel Tractor Dark Back",
+      "path": "kenney/car-kit/wheel-tractor-dark-back.glb",
+      "license": "CC0",
+      "tags": [
+        "tractor",
+        "dark",
+        "wheel",
+        "car",
+        "vehicle",
+        "back"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:wheel-tractor-dark-front",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Wheel Tractor Dark Front",
+      "path": "kenney/car-kit/wheel-tractor-dark-front.glb",
+      "license": "CC0",
+      "tags": [
+        "tractor",
+        "dark",
+        "front",
+        "wheel",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:wheel-tractor-front",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Wheel Tractor Front",
+      "path": "kenney/car-kit/wheel-tractor-front.glb",
+      "license": "CC0",
+      "tags": [
+        "tractor",
+        "front",
+        "wheel",
+        "car",
+        "vehicle"
+      ]
+    },
+    {
+      "id": "kenney:car-kit:wheel-truck",
+      "source": "kenney",
+      "pack": "car-kit",
+      "title": "Wheel Truck",
+      "path": "kenney/car-kit/wheel-truck.glb",
+      "license": "CC0",
+      "tags": [
+        "vehicle",
+        "truck",
+        "car",
+        "wheel"
+      ]
+    }
+  ]
+}
