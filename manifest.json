@@ -1,7 +1,7 @@
 {
   "schema": "aura3d-cc0-mirror/1",
   "cdnBase": "https://cdn.jsdelivr.net/gh/gchahal1982/aura3d-cc0-assets@main",
-  "count": 1643,
+  "count": 1683,
   "assets": [
     {
       "id": "kenney:blaster-kit:blaster-a",
@@ -10852,6 +10852,623 @@
         "support",
         "mini",
         "dungeon"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor",
+      "path": "kenney/modular-cave-kit/corridor.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-corner",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Corner",
+      "path": "kenney/modular-cave-kit/corridor-corner.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "corner",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-end",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor End",
+      "path": "kenney/modular-cave-kit/corridor-end.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "end",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-intersection",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Intersection",
+      "path": "kenney/modular-cave-kit/corridor-intersection.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "intersection",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-junction",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Junction",
+      "path": "kenney/modular-cave-kit/corridor-junction.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "junction",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-transition",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Transition",
+      "path": "kenney/modular-cave-kit/corridor-transition.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "transition",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-wide",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Wide",
+      "path": "kenney/modular-cave-kit/corridor-wide.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "wide",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-wide-corner",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Wide Corner",
+      "path": "kenney/modular-cave-kit/corridor-wide-corner.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "wide",
+        "corner",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-wide-end",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Wide End",
+      "path": "kenney/modular-cave-kit/corridor-wide-end.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "wide",
+        "end",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-wide-intersection",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Wide Intersection",
+      "path": "kenney/modular-cave-kit/corridor-wide-intersection.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "wide",
+        "intersection",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:corridor-wide-junction",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Corridor Wide Junction",
+      "path": "kenney/modular-cave-kit/corridor-wide-junction.glb",
+      "license": "CC0",
+      "tags": [
+        "corridor",
+        "wide",
+        "junction",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:gate",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Gate",
+      "path": "kenney/modular-cave-kit/gate.glb",
+      "license": "CC0",
+      "tags": [
+        "gate",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:gate-metal-bars",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Gate Metal Bars",
+      "path": "kenney/modular-cave-kit/gate-metal-bars.glb",
+      "license": "CC0",
+      "tags": [
+        "gate",
+        "metal",
+        "bars",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:gate-overhang",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Gate Overhang",
+      "path": "kenney/modular-cave-kit/gate-overhang.glb",
+      "license": "CC0",
+      "tags": [
+        "gate",
+        "overhang",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:gate-rock",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Gate Rock",
+      "path": "kenney/modular-cave-kit/gate-rock.glb",
+      "license": "CC0",
+      "tags": [
+        "gate",
+        "rock",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:ladder",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Ladder",
+      "path": "kenney/modular-cave-kit/ladder.glb",
+      "license": "CC0",
+      "tags": [
+        "ladder",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:room-corner",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Room Corner",
+      "path": "kenney/modular-cave-kit/room-corner.glb",
+      "license": "CC0",
+      "tags": [
+        "room",
+        "corner",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:room-large",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Room Large",
+      "path": "kenney/modular-cave-kit/room-large.glb",
+      "license": "CC0",
+      "tags": [
+        "room",
+        "large",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:room-large-variation",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Room Large Variation",
+      "path": "kenney/modular-cave-kit/room-large-variation.glb",
+      "license": "CC0",
+      "tags": [
+        "room",
+        "large",
+        "variation",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:room-small",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Room Small",
+      "path": "kenney/modular-cave-kit/room-small.glb",
+      "license": "CC0",
+      "tags": [
+        "room",
+        "small",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:room-small-variation",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Room Small Variation",
+      "path": "kenney/modular-cave-kit/room-small-variation.glb",
+      "license": "CC0",
+      "tags": [
+        "room",
+        "small",
+        "variation",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:room-wide",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Room Wide",
+      "path": "kenney/modular-cave-kit/room-wide.glb",
+      "license": "CC0",
+      "tags": [
+        "room",
+        "wide",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:room-wide-variation",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Room Wide Variation",
+      "path": "kenney/modular-cave-kit/room-wide-variation.glb",
+      "license": "CC0",
+      "tags": [
+        "room",
+        "wide",
+        "variation",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:stairs",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Stairs",
+      "path": "kenney/modular-cave-kit/stairs.glb",
+      "license": "CC0",
+      "tags": [
+        "stairs",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:stairs-wide",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Stairs Wide",
+      "path": "kenney/modular-cave-kit/stairs-wide.glb",
+      "license": "CC0",
+      "tags": [
+        "stairs",
+        "wide",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-corner",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Corner",
+      "path": "kenney/modular-cave-kit/template-corner.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "corner",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-detail",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Detail",
+      "path": "kenney/modular-cave-kit/template-detail.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "detail",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-floor",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Floor",
+      "path": "kenney/modular-cave-kit/template-floor.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "floor",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-floor-big",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Floor Big",
+      "path": "kenney/modular-cave-kit/template-floor-big.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "floor",
+        "big",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-floor-detail",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Floor Detail",
+      "path": "kenney/modular-cave-kit/template-floor-detail.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "floor",
+        "detail",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-floor-detail-a",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Floor Detail A",
+      "path": "kenney/modular-cave-kit/template-floor-detail-a.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "floor",
+        "detail",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-floor-layer",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Floor Layer",
+      "path": "kenney/modular-cave-kit/template-floor-layer.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "floor",
+        "layer",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-floor-layer-hole",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Floor Layer Hole",
+      "path": "kenney/modular-cave-kit/template-floor-layer-hole.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "floor",
+        "layer",
+        "hole",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-floor-layer-raised",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Floor Layer Raised",
+      "path": "kenney/modular-cave-kit/template-floor-layer-raised.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "floor",
+        "layer",
+        "raised",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-wall",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Wall",
+      "path": "kenney/modular-cave-kit/template-wall.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "wall",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-wall-corner",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Wall Corner",
+      "path": "kenney/modular-cave-kit/template-wall-corner.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "wall",
+        "corner",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-wall-detail-a",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Wall Detail A",
+      "path": "kenney/modular-cave-kit/template-wall-detail-a.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "wall",
+        "detail",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-wall-half",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Wall Half",
+      "path": "kenney/modular-cave-kit/template-wall-half.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "wall",
+        "half",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-wall-stairs",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Wall Stairs",
+      "path": "kenney/modular-cave-kit/template-wall-stairs.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "wall",
+        "stairs",
+        "modular",
+        "cave",
+        "kit"
+      ]
+    },
+    {
+      "id": "kenney:modular-cave-kit:template-wall-top",
+      "source": "kenney",
+      "pack": "modular-cave-kit",
+      "title": "Template Wall Top",
+      "path": "kenney/modular-cave-kit/template-wall-top.glb",
+      "license": "CC0",
+      "tags": [
+        "template",
+        "wall",
+        "top",
+        "modular",
+        "cave",
+        "kit"
       ]
     },
     {
