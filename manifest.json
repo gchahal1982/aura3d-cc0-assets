@@ -1,7 +1,7 @@
 {
   "schema": "aura3d-cc0-mirror/1",
   "cdnBase": "https://cdn.jsdelivr.net/gh/gchahal1982/aura3d-cc0-assets@main",
-  "count": 1683,
+  "count": 1705,
   "assets": [
     {
       "id": "kenney:blaster-kit:blaster-a",
@@ -10852,6 +10852,304 @@
         "support",
         "mini",
         "dungeon"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:bridge",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Bridge",
+      "path": "kenney/mini-forest/bridge.glb",
+      "license": "CC0",
+      "tags": [
+        "bridge",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:building-platform",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Building Platform",
+      "path": "kenney/mini-forest/building-platform.glb",
+      "license": "CC0",
+      "tags": [
+        "building",
+        "platform",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:building-roof",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Building Roof",
+      "path": "kenney/mini-forest/building-roof.glb",
+      "license": "CC0",
+      "tags": [
+        "building",
+        "roof",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:building-structure",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Building Structure",
+      "path": "kenney/mini-forest/building-structure.glb",
+      "license": "CC0",
+      "tags": [
+        "building",
+        "structure",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:character-archer",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Character Archer",
+      "path": "kenney/mini-forest/character-archer.glb",
+      "license": "CC0",
+      "tags": [
+        "character",
+        "archer",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:fence",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Fence",
+      "path": "kenney/mini-forest/fence.glb",
+      "license": "CC0",
+      "tags": [
+        "fence",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:flag",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Flag",
+      "path": "kenney/mini-forest/flag.glb",
+      "license": "CC0",
+      "tags": [
+        "flag",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:ladder",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Ladder",
+      "path": "kenney/mini-forest/ladder.glb",
+      "license": "CC0",
+      "tags": [
+        "ladder",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:patch-dirt",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Patch Dirt",
+      "path": "kenney/mini-forest/patch-dirt.glb",
+      "license": "CC0",
+      "tags": [
+        "patch",
+        "dirt",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:patch-grass",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Patch Grass",
+      "path": "kenney/mini-forest/patch-grass.glb",
+      "license": "CC0",
+      "tags": [
+        "patch",
+        "grass",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:plant",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Plant",
+      "path": "kenney/mini-forest/plant.glb",
+      "license": "CC0",
+      "tags": [
+        "plant",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:platform",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Platform",
+      "path": "kenney/mini-forest/platform.glb",
+      "license": "CC0",
+      "tags": [
+        "platform",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:rocks-high",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Rocks High",
+      "path": "kenney/mini-forest/rocks-high.glb",
+      "license": "CC0",
+      "tags": [
+        "rocks",
+        "high",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:rocks-low",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Rocks Low",
+      "path": "kenney/mini-forest/rocks-low.glb",
+      "license": "CC0",
+      "tags": [
+        "rocks",
+        "low",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:rocks-ramp",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Rocks Ramp",
+      "path": "kenney/mini-forest/rocks-ramp.glb",
+      "license": "CC0",
+      "tags": [
+        "rocks",
+        "ramp",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:stones",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Stones",
+      "path": "kenney/mini-forest/stones.glb",
+      "license": "CC0",
+      "tags": [
+        "stones",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:target",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Target",
+      "path": "kenney/mini-forest/target.glb",
+      "license": "CC0",
+      "tags": [
+        "target",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:tent",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Tent",
+      "path": "kenney/mini-forest/tent.glb",
+      "license": "CC0",
+      "tags": [
+        "tent",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:tree",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Tree",
+      "path": "kenney/mini-forest/tree.glb",
+      "license": "CC0",
+      "tags": [
+        "tree",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:tree-high",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Tree High",
+      "path": "kenney/mini-forest/tree-high.glb",
+      "license": "CC0",
+      "tags": [
+        "tree",
+        "high",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:weapon-arrow",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Weapon Arrow",
+      "path": "kenney/mini-forest/weapon-arrow.glb",
+      "license": "CC0",
+      "tags": [
+        "weapon",
+        "arrow",
+        "mini",
+        "forest"
+      ]
+    },
+    {
+      "id": "kenney:mini-forest:weapon-bow",
+      "source": "kenney",
+      "pack": "mini-forest",
+      "title": "Weapon Bow",
+      "path": "kenney/mini-forest/weapon-bow.glb",
+      "license": "CC0",
+      "tags": [
+        "weapon",
+        "bow",
+        "mini",
+        "forest"
       ]
     },
     {
