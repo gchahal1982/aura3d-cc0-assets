@@ -1,7 +1,7 @@
 {
   "schema": "aura3d-cc0-mirror/1",
   "cdnBase": "https://cdn.jsdelivr.net/gh/gchahal1982/aura3d-cc0-assets@main",
-  "count": 1705,
+  "count": 1710,
   "assets": [
     {
       "id": "kenney:blaster-kit:blaster-a",
@@ -10544,6 +10544,19 @@
       ]
     },
     {
+      "id": "kenney:mini-dungeon:chair",
+      "source": "kenney",
+      "pack": "mini-dungeon",
+      "title": "Chair",
+      "path": "kenney/mini-dungeon/chair.glb",
+      "license": "CC0",
+      "tags": [
+        "chair",
+        "mini",
+        "dungeon"
+      ]
+    },
+    {
       "id": "kenney:mini-dungeon:character-human",
       "source": "kenney",
       "pack": "mini-dungeon",
@@ -10664,6 +10677,45 @@
       ]
     },
     {
+      "id": "kenney:mini-dungeon:key",
+      "source": "kenney",
+      "pack": "mini-dungeon",
+      "title": "Key",
+      "path": "kenney/mini-dungeon/key.glb",
+      "license": "CC0",
+      "tags": [
+        "key",
+        "mini",
+        "dungeon"
+      ]
+    },
+    {
+      "id": "kenney:mini-dungeon:pot",
+      "source": "kenney",
+      "pack": "mini-dungeon",
+      "title": "Pot",
+      "path": "kenney/mini-dungeon/pot.glb",
+      "license": "CC0",
+      "tags": [
+        "pot",
+        "mini",
+        "dungeon"
+      ]
+    },
+    {
+      "id": "kenney:mini-dungeon:potion",
+      "source": "kenney",
+      "pack": "mini-dungeon",
+      "title": "Potion",
+      "path": "kenney/mini-dungeon/potion.glb",
+      "license": "CC0",
+      "tags": [
+        "potion",
+        "mini",
+        "dungeon"
+      ]
+    },
+    {
       "id": "kenney:mini-dungeon:rocks",
       "source": "kenney",
       "pack": "mini-dungeon",
@@ -10726,6 +10778,19 @@
       "license": "CC0",
       "tags": [
         "stones",
+        "mini",
+        "dungeon"
+      ]
+    },
+    {
+      "id": "kenney:mini-dungeon:table",
+      "source": "kenney",
+      "pack": "mini-dungeon",
+      "title": "Table",
+      "path": "kenney/mini-dungeon/table.glb",
+      "license": "CC0",
+      "tags": [
+        "table",
         "mini",
         "dungeon"
       ]
