@@ -1,7 +1,7 @@
 {
   "schema": "aura3d-cc0-mirror/1",
   "cdnBase": "https://cdn.jsdelivr.net/gh/gchahal1982/aura3d-cc0-assets@main",
-  "count": 1710,
+  "count": 1733,
   "assets": [
     {
       "id": "kenney:blaster-kit:blaster-a",
@@ -2499,6 +2499,21 @@
       ]
     },
     {
+      "id": "kenney:city-kit-roads:construction-fence",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Construction Fence",
+      "path": "kenney/city-kit-roads/construction-fence.glb",
+      "license": "CC0",
+      "tags": [
+        "construction",
+        "fence",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
       "id": "kenney:city-kit-roads:construction-light",
       "source": "kenney",
       "pack": "city-kit-roads",
@@ -2508,6 +2523,145 @@
       "tags": [
         "construction",
         "light",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:dumpster",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Dumpster",
+      "path": "kenney/city-kit-roads/dumpster.glb",
+      "license": "CC0",
+      "tags": [
+        "dumpster",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:electricity-pole",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Electricity Pole",
+      "path": "kenney/city-kit-roads/electricity-pole.glb",
+      "license": "CC0",
+      "tags": [
+        "electricity",
+        "pole",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:electricity-pole-single",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Electricity Pole Single",
+      "path": "kenney/city-kit-roads/electricity-pole-single.glb",
+      "license": "CC0",
+      "tags": [
+        "electricity",
+        "pole",
+        "single",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:electricity-pole-wide",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Electricity Pole Wide",
+      "path": "kenney/city-kit-roads/electricity-pole-wide.glb",
+      "license": "CC0",
+      "tags": [
+        "electricity",
+        "pole",
+        "wide",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:electricity-side",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Electricity Side",
+      "path": "kenney/city-kit-roads/electricity-side.glb",
+      "license": "CC0",
+      "tags": [
+        "electricity",
+        "side",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:electricity-side-single",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Electricity Side Single",
+      "path": "kenney/city-kit-roads/electricity-side-single.glb",
+      "license": "CC0",
+      "tags": [
+        "electricity",
+        "side",
+        "single",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:electricity-side-wide",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Electricity Side Wide",
+      "path": "kenney/city-kit-roads/electricity-side-wide.glb",
+      "license": "CC0",
+      "tags": [
+        "electricity",
+        "side",
+        "wide",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:electricity-wires",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Electricity Wires",
+      "path": "kenney/city-kit-roads/electricity-wires.glb",
+      "license": "CC0",
+      "tags": [
+        "electricity",
+        "wires",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:electricity-wires-wide",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Electricity Wires Wide",
+      "path": "kenney/city-kit-roads/electricity-wires-wide.glb",
+      "license": "CC0",
+      "tags": [
+        "electricity",
+        "wires",
+        "wide",
         "city",
         "kit",
         "roads"
@@ -3182,6 +3336,138 @@
       ]
     },
     {
+      "id": "kenney:city-kit-roads:road-sign-empty",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Road Sign Empty",
+      "path": "kenney/city-kit-roads/road-sign-empty.glb",
+      "license": "CC0",
+      "tags": [
+        "road",
+        "sign",
+        "empty",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:road-sign-empty-hanging",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Road Sign Empty Hanging",
+      "path": "kenney/city-kit-roads/road-sign-empty-hanging.glb",
+      "license": "CC0",
+      "tags": [
+        "road",
+        "sign",
+        "empty",
+        "hanging",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:road-sign-object-stop",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Road Sign Object Stop",
+      "path": "kenney/city-kit-roads/road-sign-object-stop.glb",
+      "license": "CC0",
+      "tags": [
+        "road",
+        "sign",
+        "object",
+        "stop",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:road-sign-object-street",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Road Sign Object Street",
+      "path": "kenney/city-kit-roads/road-sign-object-street.glb",
+      "license": "CC0",
+      "tags": [
+        "road",
+        "sign",
+        "object",
+        "street",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:road-sign-object-warning",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Road Sign Object Warning",
+      "path": "kenney/city-kit-roads/road-sign-object-warning.glb",
+      "license": "CC0",
+      "tags": [
+        "road",
+        "sign",
+        "object",
+        "warning",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:road-sign-stop",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Road Sign Stop",
+      "path": "kenney/city-kit-roads/road-sign-stop.glb",
+      "license": "CC0",
+      "tags": [
+        "road",
+        "sign",
+        "stop",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:road-sign-street",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Road Sign Street",
+      "path": "kenney/city-kit-roads/road-sign-street.glb",
+      "license": "CC0",
+      "tags": [
+        "road",
+        "sign",
+        "street",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:road-sign-warning",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Road Sign Warning",
+      "path": "kenney/city-kit-roads/road-sign-warning.glb",
+      "license": "CC0",
+      "tags": [
+        "road",
+        "sign",
+        "warning",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
       "id": "kenney:city-kit-roads:road-slant",
       "source": "kenney",
       "pack": "city-kit-roads",
@@ -3573,6 +3859,88 @@
       "tags": [
         "tile",
         "slanthigh",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:traffic-light",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Traffic Light",
+      "path": "kenney/city-kit-roads/traffic-light.glb",
+      "license": "CC0",
+      "tags": [
+        "traffic",
+        "light",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:traffic-light-hanging",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Traffic Light Hanging",
+      "path": "kenney/city-kit-roads/traffic-light-hanging.glb",
+      "license": "CC0",
+      "tags": [
+        "traffic",
+        "light",
+        "hanging",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:traffic-light-object-hanging",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Traffic Light Object Hanging",
+      "path": "kenney/city-kit-roads/traffic-light-object-hanging.glb",
+      "license": "CC0",
+      "tags": [
+        "traffic",
+        "light",
+        "object",
+        "hanging",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:traffic-light-object-horizontal",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Traffic Light Object Horizontal",
+      "path": "kenney/city-kit-roads/traffic-light-object-horizontal.glb",
+      "license": "CC0",
+      "tags": [
+        "traffic",
+        "light",
+        "object",
+        "horizontal",
+        "city",
+        "kit",
+        "roads"
+      ]
+    },
+    {
+      "id": "kenney:city-kit-roads:traffic-light-object-vertical",
+      "source": "kenney",
+      "pack": "city-kit-roads",
+      "title": "Traffic Light Object Vertical",
+      "path": "kenney/city-kit-roads/traffic-light-object-vertical.glb",
+      "license": "CC0",
+      "tags": [
+        "traffic",
+        "light",
+        "object",
+        "vertical",
         "city",
         "kit",
         "roads"
